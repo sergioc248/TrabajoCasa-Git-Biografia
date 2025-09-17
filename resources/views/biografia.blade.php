@@ -52,6 +52,12 @@
             </p>
           </section>
 
+           <section id="nacimiento">
+            <h2>Lugar de nacimiento y procedencia</h2>
+            <p>
+              Nací en Floridablanca, Santander, Colombia. Nací en la clinica ardila lule. Mi papá se llama Jorge, mi mamá se llama Sayda. Tengo dos hermanos; un hermano y una hermana. Mi hermana se llama Paola, y mi hermano se llama Andres.
+            </p>
+          </section>
       </div>
     </div>
   </body>
