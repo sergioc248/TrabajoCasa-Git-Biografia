@@ -57,6 +57,12 @@
                     <p>En mi adolescencia jugué muchísimo videojuegos, pase de consola a computadora y me envicié, especialmente al Counter Strike Global Offensive, me gustaba mucho el juego y me encantaba jugar con mis amigos. Creo que durante mi adolescencia no llegué a hacer nada significativo de programación, hasta mi semestre sabático antes de entrar a la universidad.</p>
                 </div>
 
+                <div class="item" id="presente">
+                    <span class="tag">Commit #5</span>
+                    <h3>Actualmente</h3>
+                    <p>Actualmente estoy estudiando en la universidad, y estoy trabajando como desarrollador web en una empresa de software. Siento que estoy en un buen puesto pero a veces me siento sin tiempo para mi mismo. Especialmente cuando agarro trabajos de lado...</p>
+                </div>
+
             </div>
         </div>
     </div>
