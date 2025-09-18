@@ -51,6 +51,12 @@
                     <p>Desde niño me gustaba jugar videojuegos, la primera consola que alguna vez toque fue una PSP (la original), ya que mi hermana la tenía. De niño me atrasé en la escuela, no perdí ningún año, pero entré a primero de primaria y no sabía leer.</p>
                 </div>
 
+                <div class="item" id="adolescencia">
+                    <span class="tag">Commit #4</span>
+                    <h3>Adolescencia</h3>
+                    <p>En mi adolescencia jugué muchísimo videojuegos, pase de consola a computadora y me envicié, especialmente al Counter Strike Global Offensive, me gustaba mucho el juego y me encantaba jugar con mis amigos. Creo que durante mi adolescencia no llegué a hacer nada significativo de programación, hasta mi semestre sabático antes de entrar a la universidad.</p>
+                </div>
+
             </div>
         </div>
     </div>
