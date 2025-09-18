@@ -55,6 +55,8 @@
                     <div>
                         <span class="tag">SQL</span>
                         <span class="tag">TypeScript</span>
+                        <span class="tag">Python</span>
+                        <span class="tag">C</span>
                     </div>
                 </div>
         </div>
