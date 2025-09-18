@@ -50,6 +50,15 @@
             </header>
 
 
+                <div class="panel" style="grid-column:1/-1">
+                    <h2>Academia</h2>
+                    <div class="item">
+                        <div class="role">Bachillerato</div>
+                        <div class="periodo" style="color:var(--muted); font-size:14px">Finalizado en 2022</div>
+                        <p>Educación media culminada.</p>
+                    </div>
+
+                </div>
         </div>
     </div>
 </body>
