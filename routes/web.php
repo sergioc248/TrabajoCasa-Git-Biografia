@@ -13,3 +13,7 @@ Route::get('/biografia', function () {
 Route::get('/historia', function () {
     return view('historia');
 });
+
+Route::get('/cv', function () {
+    return view('cv');
+});

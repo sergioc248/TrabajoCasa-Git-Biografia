@@ -41,6 +41,7 @@
                 <nav>
                     <a href="/biografia">Biografía</a>
                     <a href="/historia">Historia</a>
+                    <a href="/cv">Hoja de vida</a>
                 </nav>
             </header>
 
