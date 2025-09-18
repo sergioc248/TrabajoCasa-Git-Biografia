@@ -82,6 +82,20 @@
                     </div>
                 </div>
             </div>
+
+                <div class="panel">
+                    <h2>Habilidades</h2>
+                    <div>
+                        <span class="tag">SQL</span>
+                        <span class="tag">TypeScript</span>
+                        <span class="tag">Python</span>
+                        <span class="tag">C</span>
+                        <span class="tag">QA Técnico</span>
+                        <span class="tag">Trabajo en equipo</span>
+                    </div>
+                </div>
+                    </div>
+                </div>
         </div>
     </div>
 </body>
