@@ -49,7 +49,19 @@
                 </nav>
             </header>
 
-
+            <div class="grid">
+                <div class="panel">
+                    <h2>Experiencia Laboral</h2>
+                    <div class="item">
+                        <div class="role">Desarrollador — HolosTech</div>
+                        <p>Desarrollo de una aplicación de escritorio en Python para recolectar datos de telemetría de una simulación con Euro Truck Simulator 2.</p>
+                        <div>
+                            <span class="tag">Python</span>
+                            <span class="tag">Desktop</span>
+                            <span class="tag">MySQL</span>
+                        </div>
+                    </div>
+            </div>
         </div>
     </div>
 </body>
