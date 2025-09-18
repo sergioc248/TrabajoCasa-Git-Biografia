@@ -71,6 +71,16 @@
                             <span class="tag">Colaboración</span>
                         </div>
                     </div>
+                    <div class="item">
+                        <div class="role">Desarrollador de Aplicación Web LTI — HolosTech</div>
+                        <p>Construcción de una aplicación web LTI integrada con Moodle LMS que utiliza eye‑tracking para capturar datos en actividades evaluativas.</p>
+                        <div>
+                            <span class="tag">LTI</span>
+                            <span class="tag">Moodle</span>
+                            <span class="tag">Eye tracking</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
