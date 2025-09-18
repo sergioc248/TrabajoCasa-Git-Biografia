@@ -57,7 +57,16 @@
                         <div class="periodo" style="color:var(--muted); font-size:14px">Finalizado en 2022</div>
                         <p>Educación media culminada.</p>
                     </div>
-
+                    <div class="item">
+                        <div class="role">CS50x — Harvard (en línea)</div>
+                        <div class="periodo" style="color:var(--muted); font-size:14px">2023-1</div>
+                        <p>Fundamentos de ciencias de la computación: C, Python, estructuras de datos, SQL y desarrollo web.</p>
+                    </div>
+                    <div class="item">
+                        <div class="role">Ingeniería de Sistemas — Universidad Autónoma de Bucaramanga</div>
+                        <div class="periodo" style="color:var(--muted); font-size:14px">Desde 2023-2 — Actual</div>
+                        <p>Programa de pregrado en Ingeniería de Sistemas.</p>
+                    </div>
                 </div>
         </div>
     </div>
