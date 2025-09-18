@@ -50,6 +50,13 @@
             </header>
 
 
+                <div class="panel">
+                    <h2>Habilidades</h2>
+                    <div>
+                        <span class="tag">SQL</span>
+                        <span class="tag">TypeScript</span>
+                    </div>
+                </div>
         </div>
     </div>
 </body>
