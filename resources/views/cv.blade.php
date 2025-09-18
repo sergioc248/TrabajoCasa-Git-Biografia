@@ -61,6 +61,16 @@
                             <span class="tag">MySQL</span>
                         </div>
                     </div>
+                    <div class="item">
+                        <div class="role">Desarrollador Junior / QA Técnico — Plibots</div>
+                        <p>Mi trabajo actual en el equipo de soporte: responsable del QA técnico del equipo y del desarrollo de módulos para aplicaciones web.</p>
+                        <div>
+                            <span class="tag">QA Técnico</span>
+                            <span class="tag">Web</span>
+                            <span class="tag">Soporte</span>
+                            <span class="tag">Colaboración</span>
+                        </div>
+                    </div>
             </div>
         </div>
     </div>
