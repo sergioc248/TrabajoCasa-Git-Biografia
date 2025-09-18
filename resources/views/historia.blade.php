@@ -63,6 +63,11 @@
                     <p>Actualmente estoy estudiando en la universidad, y estoy trabajando como desarrollador web en una empresa de software. Siento que estoy en un buen puesto pero a veces me siento sin tiempo para mi mismo. Especialmente cuando agarro trabajos de lado...</p>
                 </div>
 
+                <div class="item" id="futuro">
+                    <span class="tag">Commit #6</span>
+                    <h3>Metas y Aspiraciones</h3>
+                    <p>Aunque me gustan muchos aspectos del desarrollo web, siempre he tenido un interés por la programación low level, empecé programando en C, así que me gustaría aprender y hacer algunos proyectos en C++. También recientemente he tenido interés en Elixir, aunque eso sigue siendo web. Pero por ahora mi mayor meta, es tener más tiempo libre.</p>
+                </div>
             </div>
         </div>
     </div>
